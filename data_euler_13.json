@@ -1,0 +1,108 @@
+{
+  "destinations": [
+    {
+      "name": "Kepler-186f",
+      "images": {
+        "png": "./assets/destination/image-kepler-186f.png",
+        "webp": "./assets/destination/image-kepler-186f.webp"
+      },
+      "description": "Explore the exoplanet Kepler-186f with a fresh perspective, like never before. Embark on a fascinating journey to satisfy your curiosity and return rejuvenated. During your visit, delve into the history of this distant world by exploring the landmarks such as the Kepler-186f Landing Site and the Apollo 11 equivalent.",
+      "distance": "5,276.58 trillion kilometers",
+      "travel": "557.7 light years"
+    },
+    {
+      "name": "TRAPPIST-1e",
+      "images": {
+        "png": "./assets/destination/image-TRAPPIST-1e.png",
+        "webp": "./assets/destination/image-TRAPPIST-1e.webp"
+      },
+      "description": "Don’t forget to pack your hiking boots and a lifejacket. You’ll need them to tackle a lot of mountains with enormous bodies of water, where you find the tallest planetary mountains in the TRAPPIST-1 star system. The biggest of them are two times the size of Everest!",
+      "distance": "39.46 light years",
+      "travel": "373.32 trillion kilometers"
+    },
+    {
+      "name": "Gliese 581d",
+      "images": {
+        "png": "./assets/destination/image-gliese 581d.png",
+        "webp": "./assets/destination/image-gliese 581d.webp"
+      },
+      "description": "Among the intriguing exoplanets of the Gliese 581 system, Gliese 581d stands out as a curious destination. With a diverse landscape, it's an explorer's paradise, inviting you to satisfy your curiosity with hikes, discoveries, or simply taking in the breathtaking views from your cozy, extraterrestrial cabin",
+      "distance": "20.3 light years",
+      "travel": "192.2033 trillion kilometers"
+    },
+    {
+      "name": "TRAPPIST-1g",
+      "images": {
+        "png": "./assets/destination/image-TRAPPIST-1g.png",
+        "webp": "./assets/destination/image-TRAPPIST-1g.webp"
+      },
+      "description": "The sole exoplanet known to boast a robust atmosphere besides Earth, TRAPPIST-1g beckons as a second home (only slightly chillier!). Plus, you're treated to awe-inspiring vistas of the celestial wonders within the TRAPPIST-1 system.",
+      "distance": "40.7 light-years",
+      "travel": "384.7107 trillion kilometers"
+    }
+  ],
+  "habitants": [
+    {
+      "name": "Luminescent Symbiotes",
+      "images": {
+        "png": "./assets/habitant/image-luminescent-symbiotes.png",
+        "webp": "./assets/habitant/image-luminescent-symbiotes.webp"
+      },
+      "role": "Intelligent life form",
+      "bio": "The Luminescent Symbiotes are intelligent, bioluminescent organisms that inhabit the deep oceans of a water-rich exoplanet. They have a unique form of communication through patterns of light emitted from their skin. They are highly social and possess a collective consciousness."
+    },
+    {
+      "name": "Silicon Architects",
+      "images": {
+        "png": "./assets/habitant/image-silicon-architects.png",
+        "webp": "./assets/habitant/image-silicon-architects.webp"
+      },
+      "role": "Intelligent life form",
+      "bio": "These beings are silicon-based life forms that inhabit a desert planet with extreme temperature variations. They have a crystalline structure and are capable of manipulating minerals and sand to build intricate structures."
+    },
+    {
+      "name": "Plasma Navigators",
+      "images": {
+        "png": "./assets/habitant/image-plasma-navigators.png",
+        "webp": "./assets/habitant/image-plasma-navigators.webp"
+      },
+      "role": "Non intelligent life form",
+      "bio": "Plasma Navigators are gaseous entities that exist within the upper atmosphere of a gas giant planet. They can manipulate their plasma bodies to create complex electromagnetic patterns and harness powerful storms."
+    },
+    {
+      "name": "Photosynthetic Sentinels",
+      "images": {
+        "png": "./assets/habitant/image-photosynthetic-sentinels.png",
+        "webp": "./assets/habitant/image-photosynthetic-sentinels.webp"
+      },
+      "role": "Intelligent life form",
+      "bio": "Photosynthetic Sentinels are large, stationary plant-like organisms that populate the surface of a tidally locked exoplanet. They have evolved to absorb energy from the sun and store it as a highly potent energy source."
+    }
+  ],
+  "technology": [
+    {
+      "name": "Launch vehicle",
+      "images": {
+        "portrait": "./assets/technology/image-launch-vehicle-portrait.jpg",
+        "landscape": "./assets/technology/image-launch-vehicle-landscape.jpg"
+      },
+      "description": "A launch vehicle or carrier rocket is a rocket-propelled vehicle used to carry a payload from Earth's surface to space, usually to Earth orbit or beyond. Our WEB-X carrier rocket is the most powerful in operation. Standing 150 metres tall, it's quite an awe-inspiring sight on the launch pad!"
+    },
+    {
+      "name": "Spaceport",
+      "images": {
+        "portrait": "./assets/technology/image-spaceport-portrait.jpg",
+        "landscape": "./assets/technology/image-spaceport-landscape.jpg"
+      },
+      "description": "A spaceport or cosmodrome is a site for launching (or receiving) spacecraft, by analogy to the seaport for ships or airport for aircraft. Based in the famous Cape Canaveral, our spaceport is ideally situated to take advantage of the Earth’s rotation for launch."
+    },
+    {
+      "name": "Space capsule",
+      "images": {
+        "portrait": "./assets/technology/image-space-capsule-portrait.jpg",
+        "landscape": "./assets/technology/image-space-capsule-landscape.jpg"
+      },
+      "description": "A space capsule is an often-crewed spacecraft that uses a blunt-body reentry capsule to reenter the Earth's atmosphere without wings. Our capsule is where you'll spend your time during the flight. It includes a space gym, cinema, and plenty of other activities to keep you entertained."
+    }
+  ]
+}
