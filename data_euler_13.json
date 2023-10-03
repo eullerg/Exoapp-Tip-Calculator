@@ -17,8 +17,8 @@
         "webp": "./assets/destination/image-TRAPPIST-1e.webp"
       },
       "description": "Don’t forget to pack your hiking boots and a lifejacket. You’ll need them to tackle a lot of mountains with enormous bodies of water, where you find the tallest planetary mountains in the TRAPPIST-1 star system. The biggest of them are two times the size of Everest!",
-      "distance": "39.46 light years",
-      "travel": "373.32 trillion kilometers"
+      "distance": "373.32 trillion kilometers",
+      "travel": "39.46 light years"
     },
     {
       "name": "Gliese 581d",
@@ -27,8 +27,8 @@
         "webp": "./assets/destination/image-gliese 581d.webp"
       },
       "description": "Among the intriguing exoplanets of the Gliese 581 system, Gliese 581d stands out as a curious destination. With a diverse landscape, it's an explorer's paradise, inviting you to satisfy your curiosity with hikes, discoveries, or simply taking in the breathtaking views from your cozy, extraterrestrial cabin",
-      "distance": "20.3 light years",
-      "travel": "192.2033 trillion kilometers"
+      "distance": "192.2033 trillion kilometers",
+      "travel": "20.3 light years"
     },
     {
       "name": "TRAPPIST-1g",
@@ -37,8 +37,8 @@
         "webp": "./assets/destination/image-TRAPPIST-1g.webp"
       },
       "description": "The sole exoplanet known to boast a robust atmosphere besides Earth, TRAPPIST-1g beckons as a second home (only slightly chillier!). Plus, you're treated to awe-inspiring vistas of the celestial wonders within the TRAPPIST-1 system.",
-      "distance": "40.7 light-years",
-      "travel": "384.7107 trillion kilometers"
+      "distance": "384.7107 trillion kilometers",
+      "travel": "40.7 light-years"
     }
   ],
   "habitants": [
